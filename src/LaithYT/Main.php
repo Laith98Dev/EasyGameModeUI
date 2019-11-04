@@ -34,11 +34,7 @@ class Main extends P implements L {
 			case "egm":
 				if($sender instanceof Player){
 					$this->OpenUI($sender);
-		} else {
-					$sender->sendMessage("Use Command In-Game :D");
-					return true;
 				}
-			}
 			break;
 		}
 		return true;
