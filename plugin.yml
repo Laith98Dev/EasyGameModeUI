@@ -1,0 +1,15 @@
+name: EasyGamemodeUI
+main: LaithYT\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+load: POSTWORLD
+author: LaithYT
+description: ...
+website: https://github.com/laith98
+
+Commands: 
+ egm:
+    description: "EasyGamemodeUI By LaithYT"
+    usage: "/egm"
+
+
