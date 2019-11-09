@@ -7,7 +7,7 @@ author: LaithYT
 description: ...
 website: https://github.com/laith98
 
-Commands: 
+commands: 
  egm:
     description: "EasyGamemodeUI By LaithYT"
     usage: "/egm"
