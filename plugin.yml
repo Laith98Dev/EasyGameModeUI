@@ -12,4 +12,6 @@ commands:
     description: "EasyGamemodeUI By LaithYT"
     usage: "/egm"
 
-
+permissions:
+  gamemode.cmd:
+   default: op
